@@ -1,0 +1,33 @@
+{
+  "name": "@vexaniumbp/rupiahku",
+  "version": "1.0.1",
+  "description": "Mengkonversi angka ke dalam format penulisan mata uang rupiah",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "browserify -t [ babelify --presets [ @babel/preset-env ] ] -t uglifyify index.js --standalone toRupiah > index.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vexaniumbp/rupiahku.git"
+  },
+  "keywords": [
+    "javascript-library",
+    "rupiah",
+    "currency"
+  ],
+  "author": "ekasepbanjar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vexaniumbp/rupiahku/issues"
+  },
+  "homepage": "https://github.com/vexaniumbp/rupiahku#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babelify": "^10.0.0",
+    "browserify": "^16.5.2",
+    "jest": "^26.4.2",
+    "uglifyify": "^5.0.2"
+  }
+}
