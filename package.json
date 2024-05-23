@@ -2,7 +2,7 @@
   "name": "@vexaniumbp/rupiahku",
   "description": "konversi angka ke rupiah",
   "version": "1.0.0",
-  "main": "q2o.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vexaniumbp/rupiahku.git"
