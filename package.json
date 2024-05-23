@@ -1,6 +1,6 @@
 {
-  "name": "@vexaniumbp/rupiahku",
-  "version": "1.0.1",
+  "name": "rupiahku",
+  "version": "1.0.0",
   "description": "Mengkonversi angka ke dalam format penulisan mata uang rupiah",
   "main": "index.js",
   "scripts": {
