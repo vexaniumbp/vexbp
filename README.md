@@ -1,4 +1,6 @@
+# ekasrupiah [![NPM Version](https://img.shields.io/npm/v/ekasrupiah.svg)](https://www.npmjs.com/package/ekasrupiah) [![Minified Size](https://img.shields.io/bundlephobia/min/ekasrupiah.svg)](https://www.npmjs.com/package/ekasrupiah) [![NPM Downloads](https://img.shields.io/npm/dt/ekasrupiah)](https://www.npmjs.com/package/ekasrupiah)
 Mengkonversi angka ke dalam format penulisan mata uang rupiah
+
 
 ## Demo
 
