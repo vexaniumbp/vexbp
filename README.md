@@ -7,16 +7,11 @@ Mengkonversi angka ke dalam format penulisan mata uang rupiah
 ## Instalasi dan Penggunaan
 
 ```
-npm install @vexaniumbp/rupiahku
+npm install ekasrupiah
 ```
 ```js
-import toRupiah from '@vexaniumbp/rupiahku';
-```
+import toRupiah from 'ekasrupiah';
 
-atau
-
-```
-<script src="https://unpkg.com/@develoka/angka-rupiah-js/index.min.js">
 ```
 
 ## Usage
