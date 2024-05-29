@@ -76,7 +76,7 @@ console.log(toRupiah(5250, {useUnit: true, symbol: null, k: true}));
 
 ## Testing
 
-Testing menggunakan [jest](https://jestjs.io/). Lihat [file tests](https://github.com/vexaniumbp/rupiahku/blob/main/test/index.test.js).
+Testing menggunakan [jest](https://jestjs.io/). Lihat [file tests](https://github.com/vexaniumbp/vexbp/blob/main/test/index.test.js).
 
 ```
 npm install
