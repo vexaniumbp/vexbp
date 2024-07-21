@@ -1,6 +1,6 @@
 {
   "name": "ekasrupiah",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Mengkonversi angka ke dalam format penulisan mata uang rupiah",
   "main": "index.js",
   "scripts": {
@@ -32,6 +32,6 @@
     "@babel/preset-env": "^7.11.5",
     "babelify": "^10.0.0",
     "browserify": "^16.5.2",
-    "jest": "^26.4.2",
+    "jest": "^26.4.2"
   }
 }
