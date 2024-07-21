@@ -1,6 +1,6 @@
 {
   "name": "ekasrupiah",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Mengkonversi angka ke dalam format penulisan mata uang rupiah",
   "main": "index.js",
   "scripts": {
@@ -22,9 +22,10 @@
     "url": "https://github.com/vexaniumbp/vexbp/issues"
   },
   "dependencies": {
+    "ekasrupiah": "^1.0.9",
+    "next": "14.2.3",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.3"
+    "react-dom": "^18"
   },
   "homepage": "https://github.com/vexaniumbp/vexbp#readme",
   "devDependencies": {
@@ -32,6 +33,6 @@
     "@babel/preset-env": "^7.11.5",
     "babelify": "^10.0.0",
     "browserify": "^16.5.2",
-    "jest": "^26.4.2"
+    "jest": "^29.7.0"
   }
 }
